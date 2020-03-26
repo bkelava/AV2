@@ -1,0 +1,109 @@
+.index
+{
+   background-color: black;
+   background-size: cover;
+}
+
+header
+{
+    background-color: blue;
+    color: orange;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    
+}
+
+#mynavbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.order{
+    background-color: black;
+    background-size: cover;
+}
+body, html{
+    height: 100%;
+}
+
+.content
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.block-1 {
+	padding-top:70px;
+	width:340px;
+	float:left;
+    text-align:center;
+    
+    color: orange;
+    text-shadow: 10px 10px 10px red;
+}
+
+.block-1 img
+{
+    width: 216px;
+    height:210px;
+}
+
+.block-1>div {
+	padding:10px 30px 15px 30px;
+	margin-top:14px;
+}
+
+.my_games_tab
+{
+    background-color: black;
+    background-size: cover;
+}
+
+.games
+{
+    font-family: fantasy;
+    color: orange;
+ 
+}
+
+.gray_bck
+{
+    background-color: grey;
+}
+
+.inverse_gray
+{
+    background-color: powderblue;
+}
+
+.games img
+{
+    height: 32px;
+    width: 32px;
+    margin-left: 10px;
+}
+
+.row
+{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+ .container{
+    width: 30%;
+    margin-top: 50px;
+    font-size: 15px;
+    border-radius: 15px;
+
+    background-color: gray;
+    color:orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0 0 5px #0000FF;
+}
+.nar{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
